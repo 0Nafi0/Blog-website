@@ -20,3 +20,4 @@ greenlet
 visitor
 typing-extensions
 WTForms
+psycopg2-binary
